@@ -1,6 +1,7 @@
 ---
 title: "IODS course project"
-output:
+author: "Ali"
+  output:
   html_document:
     theme: cosmo
     toc: true
